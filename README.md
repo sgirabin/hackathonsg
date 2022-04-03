@@ -25,6 +25,16 @@ Volunteerise contains 3 modules
 - Admin Module
 - Volunteer / Public Module
 
+# Tech Stack
+
+- Oracle Application Express (APEX)
+- Oracle REST Data Services (ORDS)
+- PL / SQL
+- Javascript
+- CSS
+
+# Application Module
+
 ## Admin Module
 
 Contains:
