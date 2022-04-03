@@ -55,7 +55,7 @@ Contains:
 - Application Administration
 
 URL: https://g663f9fd2a4932b-db202201151044.adb.ap-tokyo-1.oraclecloudapps.com/ords/r/hacksingapore/volunteerise-admin/login 
-**(username: hacksingapore / password: !Password123)**
+**(username: rabinadmin / password: rabinadmin)**
 
 ## Volunteer / Public Module
 
@@ -70,6 +70,6 @@ https://docs.google.com/presentation/d/1iHmE6prFTIiUXQAaTQ8cOkQLdwnuOHrPDRFXTDr4
 
 - Demo page: https://g663f9fd2a4932b-db202201151044.adb.ap-tokyo-1.oraclecloudapps.com/ords/r/hacksingapore/volunteerise-demo/home  
   Contains links to Admin page and Volunteer/Public page
-- Admin Page (username: hacksingapore / password: !Password123) : https://g663f9fd2a4932b-db202201151044.adb.ap-tokyo-1.oraclecloudapps.com/ords/r/hacksingapore/volunteerise-admin/login 
+- Admin Page (username: rabinadmin / password: rabinadmin) : https://g663f9fd2a4932b-db202201151044.adb.ap-tokyo-1.oraclecloudapps.com/ords/r/hacksingapore/volunteerise-admin/login 
 - Volunteer / Public Page: https://g663f9fd2a4932b-db202201151044.adb.ap-tokyo-1.oraclecloudapps.com/ords/r/hacksingapore/volunteerise-public/discover-opportunities 
   
