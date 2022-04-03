@@ -55,7 +55,7 @@ Contains:
 - Application Administration
 
 URL: https://g663f9fd2a4932b-db202201151044.adb.ap-tokyo-1.oraclecloudapps.com/ords/r/hacksingapore/volunteerise-admin/login 
-**(username: rabinadmin / password: rabinadmin)**
+**(username: hacksingapore / password: !Password123)**
 
 ## Volunteer / Public Module
 
